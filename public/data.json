@@ -1,0 +1,50 @@
+[
+  {
+    "id": "63319f5fce1b5eb96eac5970",
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "name": "Gilmore Navarro",
+    "gender": "male",
+    "email": "gilmorenavarro@kyaguru.com"
+  },
+  {
+    "id": "63319f5f290f5a8edc53739d",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "name": "Erna Juarez",
+    "gender": "female",
+    "email": "ernajuarez@kyaguru.com"
+  },
+  {
+    "id": "63319f5f76ffdad6dbef3abe",
+    "picture": "http://placehold.it/32x32",
+    "age": 28,
+    "name": "Mcintosh Velasquez",
+    "gender": "male",
+    "email": "mcintoshvelasquez@kyaguru.com"
+  },
+  {
+    "id": "63319f5ff7a0d2b10fe2f697",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "name": "Meagan Wilcox",
+    "gender": "female",
+    "email": "meaganwilcox@kyaguru.com"
+  },
+  {
+    "id": "63319f5fda3733483533b6c2",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "name": "Valerie Becker",
+    "gender": "female",
+    "email": "valeriebecker@kyaguru.com"
+  },
+  {
+    "id": "63319f5f83987589f4cf1c02",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "name": "Aida Tate",
+    "gender": "female",
+    "email": "aidatate@kyaguru.com"
+  }
+]
