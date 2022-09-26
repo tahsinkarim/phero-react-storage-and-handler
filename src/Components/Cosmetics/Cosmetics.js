@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { multiply } from '../../utilities/calculate';
 import Cosmetic from '../Cosmetic/Cosmetic';
+import './Cosmetics.css';
 
 
 const Cosmetics = () => {
@@ -21,9 +22,12 @@ const Cosmetics = () => {
                 Welcome to Cosmetics store!!
             </h1>
             <p>{total}</p>
-            {
-                cosmetics.map( cosmetic => <Cosmetic key={cosmetic.id} cosmetic={cosmetic} ></Cosmetic>)
-            }
+            <div className='cosmetics'>
+                {
+                    cosmetics.map( cosmetic => <Cosmetic key={cosmetic.id} cosmetic={cosmetic} ></Cosmetic>)
+                }
+            </div>
+            
         </div>
     );
 };

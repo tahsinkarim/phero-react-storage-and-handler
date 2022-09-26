@@ -2,49 +2,49 @@
   {
     "id": "63319f5fce1b5eb96eac5970",
     "picture": "http://placehold.it/32x32",
-    "age": 20,
-    "name": "Gilmore Navarro",
-    "gender": "male",
+    "price": 120,
+    "name": "Lippie Stix",
+    "brand": "colourpop",
     "email": "gilmorenavarro@kyaguru.com"
   },
   {
     "id": "63319f5f290f5a8edc53739d",
     "picture": "http://placehold.it/32x32",
-    "age": 32,
-    "name": "Erna Juarez",
-    "gender": "female",
+    "price": 132,
+    "name": "No Filter Foundation",
+    "brand": "colourpop",
     "email": "ernajuarez@kyaguru.com"
   },
   {
     "id": "63319f5f76ffdad6dbef3abe",
     "picture": "http://placehold.it/32x32",
-    "age": 28,
-    "name": "Mcintosh Velasquez",
-    "gender": "male",
+    "price": 128,
+    "name": "Lipstick",
+    "brand": "boosh",
     "email": "mcintoshvelasquez@kyaguru.com"
   },
   {
     "id": "63319f5ff7a0d2b10fe2f697",
     "picture": "http://placehold.it/32x32",
-    "age": 37,
-    "name": "Meagan Wilcox",
-    "gender": "female",
+    "price": 137,
+    "name": "Serum Foundation",
+    "brand": "deciem",
     "email": "meaganwilcox@kyaguru.com"
   },
   {
     "id": "63319f5fda3733483533b6c2",
     "picture": "http://placehold.it/32x32",
-    "age": 38,
-    "name": "Valerie Becker",
-    "gender": "female",
+    "price": 138,
+    "name": "Coverage Foundation",
+    "brand": "deciem",
     "email": "valeriebecker@kyaguru.com"
   },
   {
     "id": "63319f5f83987589f4cf1c02",
     "picture": "http://placehold.it/32x32",
-    "age": 31,
-    "name": "Aida Tate",
-    "gender": "female",
+    "price": 131,
+    "name": "Liquid Liner",
+    "brand": "zorah biocosmetiques",
     "email": "aidatate@kyaguru.com"
   }
 ]

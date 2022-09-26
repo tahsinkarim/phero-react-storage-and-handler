@@ -1,0 +1,18 @@
+.cosmetic {
+  border: 2px solid slateblue;
+  margin: 16px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.btn {
+  padding: 7px 30px;
+  border: 2px solid slateblue;
+  border-radius: 5px;
+  background-color: slateblue;
+  color: white;
+  cursor: pointer;
+  margin-left: 16px;
+}
+.btn:hover {
+  background-color: rgb(87, 70, 202);
+}
